@@ -8,7 +8,7 @@
 
 Web que muestra en mapas interactivos los terremotos registrados en el mundo, con datos en tiempo real de la API del **USGS** (United States Geological Survey).
 
-🔗 **Demo:** _(pendiente de añadir la URL de GitHub Pages)_
+🔗 **Demo:** [maridev-ve.github.io/Api-Map](https://maridev-ve.github.io/Api-Map/)
 
 ---
 
